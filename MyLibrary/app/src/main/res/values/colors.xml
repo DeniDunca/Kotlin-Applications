@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F1DBBF</color>
+    <color name="purple_500">#B99B6B</color>
+    <color name="purple_700">#698269</color>
+    <color name="teal_200">#B36F6F</color>
+    <color name="teal_700">#592C2C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_book_description_text_color">#606060</color>
+    <color name="detail_screen_description_text_color">#757575</color>
+</resources>
